@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    background-color: whitesmoke;
+    font-family: 'Montserrat', sans-serif;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    background-color: lightsteelblue;
+    background-image: url(../images/douglas_logo.jpg);
+    background-repeat: repeat-x;
+    width: 70%;
+    min-height: 600px;
+    margin: 0 auto;
+    padding: 0 30px 10px;
+    padding-top: 25px;
+    border: 1px solid black;
+}
+
+article {
+    border: 1px solid black;
+    padding: 5px;
+    margin: 5px;
+}
+
+section {
+    background-image: url(../images/maze-susan-q-yin-unsplash.jpg);
+    height: 200px;
+    background-size: 100% 100%;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+
+/* article {
+    border: 1px solid black;
+    padding: 5px;
+    float: left;
+    clear: both;
+    width: 100%;
+    overflow: auto;
+    margin: 5px 0;
+} */
+
+/* section {
+    float: left;
+    clear: both;
+    width: 100%;
+    overflow: auto;
+    background-image: url(../images/maze-susan-q-yin-unsplash.jpg);
+    height: 200px;
+    background-size: 100% 100%;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+ */
+
+
+
