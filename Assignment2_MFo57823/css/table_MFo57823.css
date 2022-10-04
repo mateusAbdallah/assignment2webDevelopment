@@ -1,8 +1,17 @@
 table {
     border: 1px solid black;
     border-collapse: collapse;
+    width: 100%;
+}
+
+thead {
+    background-color: blue;
 }
 
 tr, td {
     border: 1px solid black;
+}
+
+.overHere {
+    border: 2px solid red;
 }
